@@ -78,5 +78,5 @@ y(t) &= 42 + t\sin(0.51631754) + e^{-0.05|t|}\sin(0.3t)\cos(0.51631754)
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/Flam-Assignment-Repo.git
+   git clone https://github.com/SpurtiBhat/Flam-Assignment-Repo
    cd Flam-Assignment-Repo
