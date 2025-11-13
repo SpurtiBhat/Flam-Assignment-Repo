@@ -80,3 +80,16 @@ y(t) &= 42 + t\sin(0.51631754) + e^{-0.05|t|}\sin(0.3t)\cos(0.51631754)
    ```bash
    git clone https://github.com/SpurtiBhat/Flam-Assignment-Repo
    cd Flam-Assignment-Repo
+
+2. Install dependencies:
+
+pip install numpy scipy matplotlib pandas
+
+
+3. Run the main script:
+
+python main.py
+
+Output Visualization
+
+The fitted curve (in red) aligns closely with the given data points (in blue)
